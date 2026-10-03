@@ -1,0 +1,36 @@
+.header-bgk{
+
+    background-image: url(../imgs/download.jpg);
+    width: 100%;
+    margin: auto ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+
+    
+}
+
+.headline h2{
+    background-color: hsl(162, 29%, 49%);
+    min-height: auto;
+    width: 590px; border-radius: 30px;
+    opacity: 0.85;
+}
+
+
+.Seconed-article{
+
+    background-image:  url(../imgs/Path\ 62.png), url(../imgs/i-love-my-job-so-much_329181-2178.png) ;
+
+    background-repeat: no-repeat;
+
+}
+
+
+.bg-neutral-primary-soft{
+
+     border-top-left-radius:  200px ;
+
+     border-top-right-radius: 200px;
+}
